@@ -68,5 +68,5 @@ console.log(quizG.sample());
 console.log(document.getElementsByTagName("button"));//タグ名で検索をかけヒットしたモノを表示
 //一つ目のボタンを取得し指定する
 document.getElementsByTagName("button")[0].addEventListener("click",()=>{
-  window.alert("HHello world");//ポップアップを呼び出すオブジェクト
+  window.alert("サンプルボタンです");//ポップアップを呼び出すオブジェクト
 });
