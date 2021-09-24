@@ -29,7 +29,7 @@ const quiz = [
             "色合いの為"
         ],
         correct: "湿気予防",
-        quizSorce:"回答の通りです"
+        quizSorce:"答えは湿気予防です。答えの通りです。"
     },{
         question: "ある高級ブランドがサッカーボールを作った事があります、どのブランドでしょう？",
         answers: [
